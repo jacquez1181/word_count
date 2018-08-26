@@ -1,0 +1,3 @@
+The goal of this program is to grab a set of documents from a directory parse out every word and create an array of the words and their frequency across all of the documents.
+
+The purpose is to be able to take job descriptions and pull out the most used buzz words to help write resumes that hit on HCM systems search functions more often.
